@@ -1,0 +1,1 @@
+# profanity-transcriber-cs1.6-plugin-hungary
